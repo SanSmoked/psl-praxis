@@ -22,3 +22,7 @@ PSL education program/ front end development **22.02.2018**
 **Give your best and show up your imagination capacity**
 
 jdtorregrosas@gmail.com
+
+Usuario Github: SanSmoked  
+Nombre Completo: Jose Alejandro Aristizabal Hoyos
+Correo: jaaristizabalh@unal.edu.co
